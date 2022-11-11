@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m graduate student at George Washington University.
+
+Interested in reproducible research in mathematical modeling.
+
 <!--
 **asarmakeeva/asarmakeeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
