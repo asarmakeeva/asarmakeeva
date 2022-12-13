@@ -50,7 +50,7 @@ params:
   #"Hugo Profile"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "image/icon.png"
+  favicon: "/image/icon.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -108,7 +108,7 @@ params:
     title: "Anastasiia."
     subtitle: "I am a graduate student at the George Washington University"
     content: "My interest lies in reproducible research, HPC and CFD"
-    image: /images/Sarmakeeva.png
+    image: /image/Sarmakeeva.png
     button:
       enable: true
       name: "Resume"
@@ -121,7 +121,7 @@ params:
         - icon: fab fa-twitter
           url: https://twitter.com/asarmakeeva
       customIcons:
-        - icon: image/icon.png
+        - icon: /image/icon.png
           url: "https://example.com"
 
   # About
@@ -218,7 +218,7 @@ params:
     items:
       - title: "Doctor of Philosophy in Mechanical & Aerospace Engineering"
         school:
-          name: "he George Washington University, School of Engineering & Applied Science"
+          name: "The George Washington University, School of Engineering & Applied Science"
           #url: "https://example.org"
         date: "2020 - current"
         GPA: "3.45 out of 4.0"
