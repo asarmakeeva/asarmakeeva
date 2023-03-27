@@ -17,7 +17,7 @@ Menus:
     - identifier: blog
       name: Blog
       title: Blog posts
-      url: /blogs
+      url: https://asarmakeeva.github.io/
       weight: 1
 
     - identifier: gallery
