@@ -239,23 +239,23 @@ params:
          # url: "https://example.com"
 
   # Achievements
-  #achievements:
-  #  enable: true
+  achievements:
+    enable: true
     # title: "Custom Name"
-  #  items:
-  #    - title: Google kickstart runner
-  #      content: I solved all problems with optimal solution.
+    items:
+      - title: Fulbright Resercher from the US Department of State
+        content: Worked for a year at Lorena Barba's lab.
   #      url: https://example.com
-  #    - title: Facebook Hackathon Winner
-  #      content: Developed a product using Artificial Intelligence.
-  #    - title: Hugo Profile
-  #      content: Developed a theme and getting 1K+ downloads per month.
-  #      url: "https://github.com/gurusabarish/hugo-profile"
-  #    - title: Microsoft Imagine Runner
-  #      content: We are developed a product which can help others.
-  #    - title: Google Summer of Code
-  #      content: Contributed to a open source project.
-  #      url: https://example.com
+      - title: Ernst Mach Grant from Austrian Goverment
+        content: Sponsored a year of researhc in Austria
+      - title: Center of Mathematical Finances from the Higher School of Economics
+        content: Learned and worked on projects in subjects -  Stock Analysis, Derivatives, Machine Learning, Probability and Stochastic Processes.
+        url: "https://github.com/asarmakeeva/cmf-projects"
+      - title: 3MT People's Choice Award
+        content: Presented my thesis in 3 minute for general audience.
+      - title: Quantitative Finance Women's PhD Mentorship Program,
+        #content: Contributed to a open source project.
+        #url: https://example.com
 
   # projects
   #projects:
