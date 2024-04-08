@@ -106,7 +106,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Anastasiia."
-    subtitle: "I am a graduate student at the George Washington University"
+    subtitle: "I a Doctor in Mechanical and Aerospace Engineering"
     content: "My interest lies in reproducible research, HPC and CFD"
     c: Sarmakeeva.png
     button:
