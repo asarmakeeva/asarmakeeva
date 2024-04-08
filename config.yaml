@@ -137,7 +137,7 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "Pyhon3"
+        - "Python3"
         - "C++"
         - "Cloud Computing"
         - "OpenFoam"
