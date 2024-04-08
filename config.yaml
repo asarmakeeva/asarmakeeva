@@ -169,16 +169,12 @@ params:
         featuredLink:
           enable: true
           name: "Collaboration with FDA"
-          url: "https://example.com"
+          #url: "https://example.com"
         content: "It was a project to provide a medical device simulation examination running with open source and proprietary software."
 
       - job: "Computational Research Developer"
         company: "Department of Particulate Flow Modelling"
         date: "October 2018 - May 2019"
-        #featuredLink:
-        #  enable: true
-        #  name: "Assisting with the class Engineers Code"
-       #   url: "https://github.com/engineersCode" 
         content: |
          - Developed an approximation model for computational simulation with Volume of Fluid Method approach and Discrete Element Method
          - Presented computational model for solving Navier-Stokes equations for the Fluid-Structure Interaction Problem
