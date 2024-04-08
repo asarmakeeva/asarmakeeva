@@ -108,7 +108,7 @@ params:
     title: "Anastasiia."
     subtitle: "I am a graduate student at the George Washington University"
     content: "My interest lies in reproducible research, HPC and CFD"
-    image: Sarmakeeva.png
+    c: Sarmakeeva.png
     button:
       enable: true
       name: "Resume"
@@ -117,12 +117,12 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/asarmakeeva
         - icon: fab fa-twitter
           url: https://twitter.com/asarmakeeva
       customIcons:
         - icon: fav.png
-          url: "https://example.com"
+          url: https://www.linkedin.com/in/anastasiia-sarmakeeva-5a0134b2/
 
   # About
   about:
@@ -130,9 +130,7 @@ params:
     title: "About Me"
     image: "Sarmakeeva.png"
     content: |-
-            I am a graduate student at George Washington University, pursuing my Ph.D. in the field of Computational Fluid Dynamic with focus on reproducible research. I have a strong background in applied math and computer science, which have prepared me well for the challenges of my graduate research project. In my free time, I have a keen interest in quantitative finance, web3 technologies, contemporary art, running and yoga. 
-            
-            Open for relocation, I am currently based in Washington, DC.
+            I am a graduate student at George Washington University, pursuing my Ph.D. in the field of Computational Fluid Dynamic with focus on reproducible research. I have a strong background in applied math and computer science, which have prepared me well for the challenges of my graduate research project. In my free time, I have a keen interest in quantitative finance, web3 technologies, contemporary art, running and yoga. Open for relocation, I am currently based in Washington, DC.
 
     skills:
       enable: true
