@@ -117,12 +117,12 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://github.com/asarmakeeva
+          url: "https://github.com/asarmakeeva"
         - icon: fab fa-twitter
           url: https://twitter.com/asarmakeeva
       customIcons:
         - icon: fav.png
-          url: https://www.linkedin.com/in/anastasiia-sarmakeeva-5a0134b2/
+          url: "https://www.linkedin.com/in/anastasiia-sarmakeeva-5a0134b2/""
 
   # About
   about:
