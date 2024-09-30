@@ -106,7 +106,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Anastasiia."
-    subtitle: "I a Doctor in Mechanical and Aerospace Engineering"
+    subtitle: "I am a Doctor in Mechanical and Aerospace Engineering"
     content: "My interest lies in reproducible research, HPC and CFD"
     c: Sarmakeeva.png
     button:
@@ -122,7 +122,7 @@ params:
           url: https://twitter.com/asarmakeeva
       customIcons:
         - icon: fav.png
-          url: "https://www.linkedin.com/in/anastasiia-sarmakeeva-5a0134b2/""
+          url: "https://www.linkedin.com/in/anastasiia-sarmakeeva-5a0134b2/"
 
   # About
   about:
@@ -130,7 +130,7 @@ params:
     title: "About Me"
     image: "Sarmakeeva.png"
     content: |-
-            I am a graduate student at George Washington University, pursuing my Ph.D. in the field of Computational Fluid Dynamic with focus on reproducible research. I have a strong background in applied math and computer science, which have prepared me well for the challenges of my graduate research project. In my free time, I have a keen interest in quantitative finance, web3 technologies, contemporary art, running and yoga. Open for relocation, I am currently based in Washington, DC.
+            I am graduated George Washington University with Ph.D. in the field of Computational Fluid Dynamic with focus on reproducible research. I have a strong background in applied math and computer science, which have prepared me well for the challenges of my graduate research project. In my free time, I have a keen interest in quantitative finance, web3 technologies, contemporary art, running and yoga. Open for relocation, I am currently based in Washington, DC.
 
     skills:
       enable: true
@@ -148,6 +148,13 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Machine Learning Engineer"
+        company: "U.S. Food and Drug Administration"
+        date: "July 2024 - current" 
+        content: |
+         - Collaborate with interdisciplinary teams on image processing and machine learning for medical image analysis
+         - Developed advanced computational methods for synthetic image generation in breast cancer and skin cancer segmentation
+
       - job: "Graduate Assistant"
         company: "The George Washington University"
         date: "May 2020 - May 2024"
@@ -164,10 +171,6 @@ params:
       - job: "Research Assistant"
         company: "The George Washington University"
         date: "May 2021 - May 2022"
-        featuredLink:
-          enable: true
-          name: "Collaboration with FDA"
-          #url: "https://example.com"
         content: "It was a project to provide a medical device simulation examination running with open source and proprietary software."
 
       - job: "Computational Research Developer"
