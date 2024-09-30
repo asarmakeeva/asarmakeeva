@@ -130,7 +130,7 @@ params:
     title: "About Me"
     image: "Sarmakeeva.png"
     content: |-
-            I am graduated George Washington University with Ph.D. in the field of Computational Fluid Dynamic with focus on reproducible research. I have a strong background in applied math and computer science, which have prepared me well for the challenges of my graduate research project. In my free time, I have a keen interest in quantitative finance, web3 technologies, contemporary art, running and yoga. Open for relocation, I am currently based in Washington, DC.
+            I graduated George Washington University with Ph.D. in the field of Computational Fluid Dynamic with focus on reproducible research. I have a strong background in applied math and computer science, which have prepared me well for the challenges of my graduate research project. In my free time, I have a keen interest in quantitative finance, web3 technologies, contemporary art, running and yoga. Open for relocation, I am currently based in Washington, DC.
 
     skills:
       enable: true
@@ -148,6 +148,13 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Machine Learning Engineer"
+        company: "U.S. Food and Drug Administration"
+        date: "July 2024 - current" 
+        content: |
+         - Collaborate with interdisciplinary teams on image processing and machine learning for medical image analysis
+         - Developed advanced computational methods for synthetic image generation in breast cancer and skin cancer segmentation
+         
       - job: "Graduate Assistant"
         company: "The George Washington University"
         date: "May 2020 - May 2024"
