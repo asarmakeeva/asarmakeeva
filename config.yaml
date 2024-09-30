@@ -148,13 +148,6 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Machine Learning Engineer"
-        company: "U.S. Food and Drug Administration"
-        date: "July 2024 - current" 
-        content: |
-         - Collaborate with interdisciplinary teams on image processing and machine learning for medical image analysis
-         - Developed advanced computational methods for synthetic image generation in breast cancer and skin cancer segmentation
-
       - job: "Graduate Assistant"
         company: "The George Washington University"
         date: "May 2020 - May 2024"
