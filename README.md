@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m graduate student at George Washington University.
+I’m Ph.D in Mechanical & Aerospace Engineering
 
 Interested in reproducible research in mathematical modeling.
 
