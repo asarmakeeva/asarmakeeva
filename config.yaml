@@ -50,7 +50,7 @@ params:
   #"Hugo Profile"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "fav.png"
+  favicon: "images/icon.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -128,7 +128,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "Sarmakeeva.png"
+    image: "images/Sarmakeeva.png"
     content: |-
             I graduated George Washington University with Ph.D. in the field of Computational Fluid Dynamic with focus on reproducible research. I have a strong background in applied math and computer science, which have prepared me well for the challenges of my graduate research project. In my free time, I have a keen interest in quantitative finance, web3 technologies, contemporary art, running and yoga. Open for relocation, I am currently based in Washington, DC.
 
@@ -154,7 +154,7 @@ params:
         content: |
          - Collaborate with interdisciplinary teams on image processing and machine learning for medical image analysis
          - Developed advanced computational methods for synthetic image generation in breast cancer and skin cancer segmentation
-         
+
       - job: "Graduate Assistant"
         company: "The George Washington University"
         date: "May 2020 - May 2024"
