@@ -17,7 +17,7 @@ Menus:
     - identifier: blog
       name: Blog
       title: Blog posts
-      url: /blog/test.md
+      url: /blog/
       weight: 1
 
     #Dropdown menu
