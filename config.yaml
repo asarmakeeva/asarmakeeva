@@ -17,7 +17,7 @@ Menus:
     - identifier: blog
       name: Blog
       title: Blog posts
-      #url: https://asarmakeeva.github.io/
+      url: /blog/test.md
       weight: 1
 
     #Dropdown menu
