@@ -9,4 +9,4 @@ Published [T-SYNTH](https://github.com/DIDSR/tsynth-release) (medical imaging da
 
 **Interests:** Computer vision, generative models, reproducible ML research
 
-📫 asarmakeeva@gmail.com | [LinkedIn](linkedin.com/in/anastasiia-sarmakeeva)
+📫 [Email](mailto:asarmakeeva@gmail.com) | [LinkedIn](https://linkedin.com/in/anastasiia-sarmakeeva) | [GitHub](https://github.com/asarmakeeva)
