@@ -1,20 +1,12 @@
-### Hi there 👋
+### Hi 👋 I'm Anastasia
 
-I’m Ph.D in Mechanical & Aerospace Engineering
+**ML Engineer** (PhD) | Computer Vision | Synthetic Data | Open Source
 
-Interested in reproducible research in mathematical modeling.
+Currently looking for a job in ML or Quantitative Reseach.  
+Published [T-SYNTH](https://github.com/DIDSR/tsynth-release) (medical imaging dataset for breast cancer leasion detection) at MICCAI 2025.
 
-<!--
-**asarmakeeva/asarmakeeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Stack:** PyTorch • JAX • Python • C++ • Docker
 
-Here are some ideas to get you started:
+**Interests:** Computer vision, generative models, reproducible ML research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 asarmakeeva@gmail.com | [LinkedIn](linkedin.com/in/anastasiia-sarmakeeva-5a0134b2/)
