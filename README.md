@@ -2,7 +2,7 @@
 
 **ML Engineer** (PhD) | Computer Vision | Synthetic Data | Open Source
 
-Currently looking for a job in ML or Quantitative Reseach.  
+Currently looking for a job in Machine Learning or Computer Vision.  
 Published [T-SYNTH](https://github.com/DIDSR/tsynth-release) (medical imaging dataset for breast cancer leasion detection) at MICCAI 2025.
 
 **Stack:** PyTorch • JAX • Python • C++ • Docker
